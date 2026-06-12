@@ -8,16 +8,16 @@ fault tolerance, performance tuning, and clean architecture.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🧠 Languages
+### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-### 🖥 Backend & APIs
+### Backend & APIs
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
@@ -25,7 +25,7 @@ fault tolerance, performance tuning, and clean architecture.
 
 ---
 
-### 🎨 Frontend
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -33,19 +33,19 @@ fault tolerance, performance tuning, and clean architecture.
 
 ---
 
-### 🗄 Databases & Caching
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-### 📩 Messaging & Async Systems
+### Messaging & Async Systems
 ![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=flat)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 ---
 
-### ⚙️ Infrastructure & DevOps
+### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -53,7 +53,7 @@ fault tolerance, performance tuning, and clean architecture.
 
 ---
 
-## 🧠 Currently Working On
+## Currently Working On
 
 - Distributed job scheduler with worker orchestration
 - Multi-tenant task execution & quota management
@@ -63,9 +63,9 @@ fault tolerance, performance tuning, and clean architecture.
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
-### 🔹 Scheduler Service
+### Scheduler Service
 A distributed job scheduling system designed for high throughput.
 
 **Features**
@@ -81,7 +81,7 @@ Go · Redis · PostgreSQL · Docker · Kafka
 
 ---
 
-### 🔹 E-commerce Backend
+### E-commerce Backend
 A production-style backend system covering the full purchase lifecycle.
 
 **Features**
@@ -94,7 +94,7 @@ Go · Gin · PostgreSQL · HTML · CSS · Bootstrap
 
 ---
 
-## 🧩 Engineering Values
+## Engineering Values
 
 - Clean architecture & separation of concerns
 - Observability, debuggability, and resilience
@@ -103,7 +103,7 @@ Go · Gin · PostgreSQL · HTML · CSS · Bootstrap
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/varun-jp
 - Email: varunjpmch@gmail.com
