@@ -1,4 +1,4 @@
-# Hi, I'm Varun 👋
+# Hi, I'm Varun
 
 Backend-focused Software Engineer with a strong interest in building
 **scalable systems, distributed services, and production-grade backends**.
